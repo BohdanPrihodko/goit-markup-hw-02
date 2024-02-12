@@ -114,7 +114,7 @@ font-style: normal;
     cursor: pointer;
 }
 
-.order-serv-btn:hover
+.order-serv-btn:hover,
 .order-serv-btn:focus {
     background-color: #404BBF;
 }
