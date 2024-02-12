@@ -62,9 +62,12 @@ ul, ol {
 .menu-item-link:focus {
     color: #404bbf;
 }
-                                                                
+
+.contact-block  {
+font-style: normal;   
+}                                      
+
 .contact-data {
-    font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -74,7 +77,7 @@ ul, ol {
 
 .contact-data:hover,
 .contact-data:focus {
-    color: #404bbf;
+    color: #404BBF;
 }
 
 
@@ -113,7 +116,7 @@ ul, ol {
 
 .order-serv-btn:hover
 .order-serv-btn:focus {
-    background-color: #404bbf;
+    background-color: #404BBF;
 }
 
 /* /Hero Section style */
@@ -150,6 +153,7 @@ ul, ol {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #434455;
 }
 
 /* /Our Banefits Section style*/
